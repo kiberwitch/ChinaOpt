@@ -60,3 +60,5 @@
 - Акценты на ключевых услугах и преимуществах  
 
 Дизайн полностью адаптивен и готов к реализации!
+
+# Cылка на дизайн - https://www.figma.com/design/3INZGUadlhEfVScOLss5Zz/china?node-id=0-1&t=yrCvidbTqYaRZAqW-1
